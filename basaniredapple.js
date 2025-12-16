@@ -1,7 +1,7 @@
 // Task 1: Create Arrays
 
 // An array of 5 grocery store items
-const groceryItems = ["Apples", "Bread", "Milk", "Eggs", "Cheese"];
+const groceryItems = ["Apples", "Bread", "Milk", "Eggs"];
 
 // An array of 3 numbers representing prices
 const prices = [2.99, 1.49, 3.75];
